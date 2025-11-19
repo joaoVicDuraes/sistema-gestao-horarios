@@ -33,4 +33,4 @@ Como este projeto roda no ambiente Google (Serverless), o código fonte neste re
 2. As triggers de `onFormSubmit` ou `onEdit` acionam as validações automaticamente.
 
 ---
-*Desenvolvido por [Seu Nome] - Aluno de ADS no IFSP Bragança Paulista*
+*Desenvolvido por João Victor O. Duraes - Aluno de ADS no IFSP Bragança Paulista*
